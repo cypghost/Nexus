@@ -10,7 +10,7 @@ const Hero = () => {
             level="h1"
             className="text-3xl leading-10 text-ui-fg-base font-normal"
           >
-            Welcome To Nexus
+            Welcome To Nexus, Where You Can Find Everything You Want
           </Heading>
         </span>
         <a
